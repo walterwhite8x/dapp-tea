@@ -4,7 +4,7 @@
   "description": "Quest for tea.xyz dapp to dev",
   "main": "index.js",
   "author": "@walterwhite8x",
-  "repository": "https://github.com/walterwhite8x/dapp-tea.git",
+  "repository": "https://github.com/walterwhite8x/dapp-tea",
   "license": "ISC",
   "dependencies": {
     "@trinhthikimlien/tea-web-app": "^1.0.0"
