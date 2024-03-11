@@ -1,0 +1,12 @@
+{
+  "name": "@walterwhite8x/dapp-tea",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz dapp to dev",
+  "main": "index.js",
+  "author": "@walterwhite8x",
+  "repository": "https://github.com/walterwhite8x/dapp-tea.git",
+  "license": "ISC",
+  "dependencies": {
+    "@trinhthikimlien/tea-web-app": "^1.0.0"
+  }
+}
